@@ -1,7 +1,9 @@
-
+import Joke from "./components/Joke";
 function App() {
   return (
-    <p>Hello world</p>
+    <>
+      <Joke/>
+    </>
   );
 }
 

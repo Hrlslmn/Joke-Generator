@@ -1,0 +1,18 @@
+body{
+    background-color: bisque;
+}
+h2 ,h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.jokeSection{
+    background-color: brown;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+.jokeSection button{
+    padding: 10px;
+    border: 2px solid burlywood;
+    border-radius: 4px;
+}
