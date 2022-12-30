@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/first-amplify-react/static/css/main.31d6cfe0.css",
-    "main.js": "/first-amplify-react/static/js/main.7f1af470.js",
+    "main.css": "/first-amplify-react/static/css/main.cad7cb60.css",
+    "main.js": "/first-amplify-react/static/js/main.b35e4a00.js",
     "index.html": "/first-amplify-react/index.html",
-    "main.7f1af470.js.map": "/first-amplify-react/static/js/main.7f1af470.js.map"
+    "main.cad7cb60.css.map": "/first-amplify-react/static/css/main.cad7cb60.css.map",
+    "main.b35e4a00.js.map": "/first-amplify-react/static/js/main.b35e4a00.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.7f1af470.js"
+    "static/css/main.cad7cb60.css",
+    "static/js/main.b35e4a00.js"
   ]
 }
